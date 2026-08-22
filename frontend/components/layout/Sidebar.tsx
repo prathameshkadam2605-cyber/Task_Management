@@ -162,11 +162,11 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
           <div className="flex items-center justify-between rounded-lg p-2 hover:bg-secondary/50 transition-colors cursor-pointer">
             <div className="flex items-center gap-3">
               <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary/10 text-xs font-bold text-primary">
-                SN
+                PS
               </div>
               <div className="flex flex-col">
-                <span className="text-xs font-medium leading-none">Sahil</span>
-                <span className="text-[11px] text-muted-foreground mt-0.5">admin@taskflow.dev</span>
+                <span className="text-xs font-medium leading-none">Prathmesh</span>
+                <span className="text-[11px] text-muted-foreground mt-0.5">prathmesh@taskflow.dev</span>
               </div>
             </div>
             <ChevronsUpDown className="h-3.5 w-3.5 text-muted-foreground opacity-60" />
