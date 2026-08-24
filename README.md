@@ -178,7 +178,7 @@ Interactive Swagger documentation is available at `http://127.0.0.1:8000/docs`.
 ### 3. Frontend Setup
 ```bash
 # Navigate to frontend directory
-cd ../frontend
+cd frontend
 
 # Install dependencies
 npm install
@@ -246,7 +246,6 @@ pytest -v
 
 ## Author
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Name**: Prathamesh Kadam
+- **Email**: prathameshkadam2605@gmail.com
+- **GitHub**: https://github.com/prathameshkadam2605-cyber
